@@ -13,5 +13,5 @@
 <p><b>Como funciona o código Arduino: Comunicação com o Aplicativo Android</b></p>
 <br>Obs.: Verificar a configuração MAC
 <br>Toda a comunicação é via protocolo HTTP, onde eles trocam a mensagem, em forma de string, que é repassada do Arduino para o Android
-O middleware terá a função de funcionar captando esta troca de mensagem entre o Arduino e Android
+<p>O middleware terá a função de funcionar captando esta troca de mensagem entre o Arduino e Android</p>
 
