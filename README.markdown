@@ -5,4 +5,4 @@
 <h2>Middleware para IoT - Casa Inteligente</h2>
 
 <p>Elaborado por Lhaís Rodrigues, Adauto Morato e Rafael Moreira</p>
-<p><img src="https://www.oregonead.com.br/Images/Oregon/loading.gif">Em produção...</p>
+<p><img src="https://www.oregonead.com.br/Images/Oregon/loading.gif" height="20 px" width="20 px">Em produção...</p>
